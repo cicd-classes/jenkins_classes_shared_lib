@@ -7,5 +7,5 @@ Usage:
 
 def call() {
 
-    echo 'Inside example func'
+    echo 'Inside example func in our own Shared Lib'
 }
